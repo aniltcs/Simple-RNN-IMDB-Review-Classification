@@ -1,5 +1,5 @@
 # Simple-RNN-IMDB-Review-Classification
-Problem statement: Use IMDB dataset to predict movie review as positive or negative based on user input
+Problem statement: Use IMDB dataset to predict movie review as positive or negative based on user input.
 Postive review: This was a really good movie with strong performances and great direction.
 Negative review: This was a really  bad movie with worst performances and third class direction.
 
